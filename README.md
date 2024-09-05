@@ -14,12 +14,12 @@
 
 Ensure that the following CSV files are available in the specified paths or change the name of the file to:
 
-- cot_train.csv
-- cot_test.csv
-- zero_train.csv
-- zero_test.csv
-- ltm_train.csv
-- ltm_test.csv
+- chain_of_thought_output_train.csv
+- chain_of_thought_output_test.csv
+- dataset_question_train.csv
+- dataset_question_test.csv
+- least_to_most_output_train.csv
+- least_to_most_output_test_test.csv
 
 Update the paths in the code to point to where these files are located on your system.
 
